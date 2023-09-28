@@ -1,0 +1,13 @@
+
+/.dart_tool/
+/.idea/
+/build/
+/.vscode/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.packages
+/ios/.generated/
+/ios/Pods/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+
