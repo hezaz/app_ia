@@ -1,0 +1,14 @@
+com.hedisapplication.app-jetified-window-java-1.0.0-beta04-0 /Users/administrateur/.gradle/caches/transforms-3/08a794a3f2f3970abb63093256f3a7ff/transformed/jetified-window-java-1.0.0-beta04/res
+com.hedisapplication.app-jetified-window-1.0.0-beta04-1 /Users/administrateur/.gradle/caches/transforms-3/6f3c94bc7e415994af128d830fc65f80/transformed/jetified-window-1.0.0-beta04/res
+com.hedisapplication.app-jetified-annotation-experimental-1.1.0-2 /Users/administrateur/.gradle/caches/transforms-3/8e2f9490fefd6c9168cbe28b58d6d5ff/transformed/jetified-annotation-experimental-1.1.0/res
+com.hedisapplication.app-core-1.6.0-3 /Users/administrateur/.gradle/caches/transforms-3/aaab9055df4bcc213684bd8c9a4ce85d/transformed/core-1.6.0/res
+com.hedisapplication.app-debug-4 /Users/administrateur/flutter_env/hedi_s_application2-v1.0.1/android/app/src/debug/res
+com.hedisapplication.app-main-5 /Users/administrateur/flutter_env/hedi_s_application2-v1.0.1/android/app/src/main/res
+com.hedisapplication.app-pngs-6 /Users/administrateur/flutter_env/hedi_s_application2-v1.0.1/build/app/generated/res/pngs/debug
+com.hedisapplication.app-resValues-7 /Users/administrateur/flutter_env/hedi_s_application2-v1.0.1/build/app/generated/res/resValues/debug
+com.hedisapplication.app-rs-8 /Users/administrateur/flutter_env/hedi_s_application2-v1.0.1/build/app/generated/res/rs/debug
+com.hedisapplication.app-mergeDebugResources-9 /Users/administrateur/flutter_env/hedi_s_application2-v1.0.1/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.hedisapplication.app-mergeDebugResources-10 /Users/administrateur/flutter_env/hedi_s_application2-v1.0.1/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.hedisapplication.app-merged_res-11 /Users/administrateur/flutter_env/hedi_s_application2-v1.0.1/build/app/intermediates/merged_res/debug
+com.hedisapplication.app-packaged_res-12 /Users/administrateur/flutter_env/hedi_s_application2-v1.0.1/build/path_provider_android/intermediates/packaged_res/debug
+com.hedisapplication.app-packaged_res-13 /Users/administrateur/flutter_env/hedi_s_application2-v1.0.1/build/sqflite/intermediates/packaged_res/debug
